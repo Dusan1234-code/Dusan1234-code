@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dusan Gacesa
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning JavaScript and Angular
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 Reach me via e-mail: dusangacesa727@gmail.com
 
 <!---
